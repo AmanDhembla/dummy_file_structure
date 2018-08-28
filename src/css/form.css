@@ -1,0 +1,100 @@
+.modal-content{
+  width:316px;
+  height:447px;
+  margin: auto;
+  box-shadow: none;
+}
+
+.modal-backdrop{
+  background-color: transparent;
+}
+
+.modal-title{
+  text-align: center;
+  font-size: 22px;
+}
+
+button.close > span{
+  float: right;
+  height: 25px;
+  padding-top: 7px
+}
+.modal-header{
+  border: none;
+}
+
+.nav-tabs{
+  margin:auto;
+  width:134px;
+  border: 1px solid #DDE0E4;
+  height: 32px;
+  box-sizing: border-box;
+  overflow: hidden;
+  border-radius: 8px;
+}
+
+li.active{
+  background-color: #4AB7FF;
+  color:#fff;
+}
+
+#uncontrolled-tab-example-tab-1{
+  text-decoration: none;
+  background-color: transparent;
+  border: none;
+  float: left;
+  width: 63px;
+  height: 32px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+#uncontrolled-tab-example-tab-2{
+  background-color: transparent;
+  border: none;
+  width: 64px;
+  height: 32px;
+  margin-left: 1px;
+  text-align: center;
+}
+
+.modal-body{
+  padding-top: 0px;
+}
+
+input{
+  width:220px;
+  height: 40px;
+  margin-top: 16px;
+  border-radius: 8px;
+  font-size: 17px;
+  box-shadow: none;
+  border:1px solid #DDE0E4;
+  padding-left: 16px;
+  margin-left:30px;
+}
+
+input:focus{
+  outline: 0;
+}
+
+form>button{
+  display: block;
+  width:220px;
+  height: 40px;
+  border-radius: 8px;
+  box-shadow: none;
+  margin-top: 24px;
+  margin-left:30px;
+  background-color: #4AB7FF;
+  color: #fff;
+  border: 1px solid #4AB7FF;
+}
+
+#add-button{
+  margin-left: 10px;
+}
+
+#add-button:focus{
+  outline: 0;
+}

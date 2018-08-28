@@ -1,0 +1,80 @@
+#options-main{
+  height: 131px;
+  width:159px;
+  border: 1px solid #DDE0E4;
+}
+
+
+#option-button{
+  height: 43px;
+  width: 159px;
+  padding-left: 24px;
+  text-align: left;
+  background-color: transparent;
+  border:1px solid #DDE0E4;
+}
+
+#option-button:focus{
+  background-color: #EEEFF1;
+}
+
+
+.modal-content{
+  width:316px;
+  height:395px;
+  margin: auto;
+  box-shadow: none;
+}
+
+.modal-backdrop{
+  background-color: transparent;
+}
+
+.modal-title{
+  text-align: center;
+  font-size: 22px;
+}
+
+button.close > span{
+  float: right;
+  height: 25px;
+  padding-top: 7px
+}
+.modal-header{
+  border: none;
+}
+
+#uncontrolled-tab-example-tab-1{
+  text-decoration: none;
+  background-color: transparent;
+  border: none;
+  float: left;
+  width: 63px;
+  height: 32px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+#option-img{
+  width: 96px;
+  height: 96px;
+  margin: 0 auto;
+}
+
+#option-img>img{
+  padding: 12px 22px 12px 23px;
+}
+
+.option-content{
+  margin: 24px ;
+
+  width:236px;
+}
+
+.option-span{
+  width:100px;
+  height:19px;
+  text-align: right;
+  float:left;
+  margin-right: 8px;
+}

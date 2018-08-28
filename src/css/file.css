@@ -1,0 +1,29 @@
+#file-content{
+  height: 113px;
+  width: 96px;
+  float: left;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+  position: relative;
+}
+
+#file-img{
+  padding-left: 23px;
+  padding-right: 22px;
+  padding-top :12px;
+  padding-bottom: 9px;
+}
+
+#file-name{
+  padding-left: 25px;
+  padding-bottom: 9px;
+  font-size: 19px;
+  padding-right: 24px;
+}
+
+#file-extension{
+  position:absolute;
+  bottom: 35px;
+  left:31px;
+  color:white;
+}

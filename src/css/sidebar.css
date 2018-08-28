@@ -1,0 +1,14 @@
+#sidebar{
+  width: 256px;
+  float: left;
+  background-color: #F9FAFC;
+  min-height:100%;
+}
+
+#sidebar-heading{
+  width: 35px;
+  text-align: left;
+  padding: 25px;
+  height: 15px;
+  color: #AFB2B6;
+}

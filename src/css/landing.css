@@ -1,0 +1,36 @@
+#landing{
+  float:left;
+  display: inline;
+  width: 75%;
+}
+
+#landing-header{
+  margin-top: 24px;
+  margin-bottom: 33px;
+  height:35px;
+  float: left;
+  width: 100%;
+}
+
+#landing-button{
+  margin-left: 42px;
+  margin-right: 28.3px;
+  float: left;
+  background-color: #fff;
+  border:none;
+  height: 28.3px;
+  width:28.3px;
+}
+
+#landing-path{
+  float: left;
+  font-size: 25px;
+}
+
+#landing-form{
+  float: left;
+}
+
+#landing-form input{
+  margin-top: 0px;
+}

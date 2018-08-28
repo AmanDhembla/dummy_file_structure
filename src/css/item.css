@@ -1,0 +1,36 @@
+#sidebar-item:focus{
+  background-color: #EEEFF1;
+  outline: 0;
+}
+
+#sidebar-item{
+  height: 43px;
+  width: 256px;
+  text-align: left;
+  padding-left: 25px;
+  padding-right: 25px;
+  background-color: #fff;
+  border:none;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+#item-caret{
+  display: inline;
+  float: right;
+}
+
+#item-name{
+  font-size: 19px;
+}
+
+#embed-item{
+  box-sizing: border-box;
+  width: 100%;
+  margin-left: 20px;
+  border-left: 1px solid #EEEFF1;
+}
+
+#embed-item #sidebar-item{
+  width:236px;
+}
